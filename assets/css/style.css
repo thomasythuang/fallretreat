@@ -190,6 +190,12 @@ a:focus{
 	height: 362px;
 	width: 640px;
 }
+#badge{
+	width: 200px;
+}
+#connect{
+	width: 400px;
+}
 
 .form-control{
 	padding: 6px 30px;
